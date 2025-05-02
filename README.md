@@ -1,1 +1,2 @@
 # Fifa-21-sql-analysis
+This is an analysis conducted for players and clubs on FIFA 21 that aims at giving a user enough information at their disposal when wanting to make decisions to purchase players on Career Mode where they look at potentially good players , players who have a high overall rating and other analysis of clubs and players according to various metrics. I believe this will lead to a better user experience especially to those who usually compete.
